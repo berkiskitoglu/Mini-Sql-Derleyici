@@ -1,0 +1,10 @@
+C:\Users\iskit\Desktop\Udemy_Project\MiniSqlDerleyici\MiniSqlDerleyici\bin\Debug\MiniSqlDerleyici.exe.config
+C:\Users\iskit\Desktop\Udemy_Project\MiniSqlDerleyici\MiniSqlDerleyici\bin\Debug\MiniSqlDerleyici.exe
+C:\Users\iskit\Desktop\Udemy_Project\MiniSqlDerleyici\MiniSqlDerleyici\bin\Debug\MiniSqlDerleyici.pdb
+C:\Users\iskit\Desktop\Udemy_Project\MiniSqlDerleyici\MiniSqlDerleyici\obj\Debug\MiniSqlDerleyici.csproj.AssemblyReference.cache
+C:\Users\iskit\Desktop\Udemy_Project\MiniSqlDerleyici\MiniSqlDerleyici\obj\Debug\MiniSqlDerleyici.Form1.resources
+C:\Users\iskit\Desktop\Udemy_Project\MiniSqlDerleyici\MiniSqlDerleyici\obj\Debug\MiniSqlDerleyici.Properties.Resources.resources
+C:\Users\iskit\Desktop\Udemy_Project\MiniSqlDerleyici\MiniSqlDerleyici\obj\Debug\MiniSqlDerleyici.csproj.GenerateResource.cache
+C:\Users\iskit\Desktop\Udemy_Project\MiniSqlDerleyici\MiniSqlDerleyici\obj\Debug\MiniSqlDerleyici.csproj.CoreCompileInputs.cache
+C:\Users\iskit\Desktop\Udemy_Project\MiniSqlDerleyici\MiniSqlDerleyici\obj\Debug\MiniSqlDerleyici.exe
+C:\Users\iskit\Desktop\Udemy_Project\MiniSqlDerleyici\MiniSqlDerleyici\obj\Debug\MiniSqlDerleyici.pdb
